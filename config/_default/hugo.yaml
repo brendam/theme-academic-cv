@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Brenda's blog
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://moon.au/'
 
 ############################
 ## LANGUAGE
@@ -22,10 +22,10 @@ removePathAccents: true
 ############################
 
 build:
-  writeStats: true
+writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination.pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
