@@ -35,8 +35,8 @@ profiles:
   - icon: at-symbol
     link: 'mailto:brenda@moon.au'  
     label: E-mail Me
-  - icon: brands/x
-    link: https://twitter.com/brendam
+  - icon: brands/bluesky
+    link: https://bsky.app/profile/brmoon.bsky.social
   - icon: academicons/orcid
     link: https://orcid.org/0000-0003-2571-0650
   - icon: academicons/google-scholar
